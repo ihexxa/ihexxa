@@ -1,4 +1,10 @@
-### In construction...
+### Work in progress...
+
+#### Highlights
+
+![Quickshare on desktop](./imgs/quickshare.jpeg)
+
+**[Quickshare](https://github.com/ihexxa/quickshare)**: Simple file sharing service built with Go/Golang, Typescript, Gin, React, Boltdb, etc.
 
 <!--
 **ihexxa/ihexxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
