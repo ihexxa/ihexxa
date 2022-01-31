@@ -1,8 +1,6 @@
-### Work in progress...
-
 #### Highlights
 
-![Quickshare on desktop](./imgs/quickshare.jpeg)
+![Quickshare on desktop](./imgs/quickshare/v0.5.4/screens_2.jpg)
 
 **[Quickshare](https://github.com/ihexxa/quickshare)**: Simple file sharing service built with Go/Golang, Typescript, Gin, React, Boltdb, etc.
 
