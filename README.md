@@ -1,3 +1,11 @@
+#### Hiring
+
+The Insomnia Team is hiring more frontend and backend talents who is familar with React or Golang (location: Shanghai China).
+
+Send your resume to me for quicker processing: amlhLmhlQGtvbmdocS5jb20K
+
+Detailed JDs can be found in the official site "Careers" page.
+
 #### Highlights
 
 ![Quickshare on desktop](./imgs/quickshare/v0.5.4/screens_2.jpg)
